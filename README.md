@@ -1,7 +1,7 @@
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3307
-DB_DATABASE=akubisa
+DB_DATABASE=bookingbadminton
 DB_USERNAME=root
 DB_PASSWORD=
 port 8080
